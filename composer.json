@@ -1,0 +1,10 @@
+{
+    "name": "mdsystems/jquery.sparkline",
+    "description": "Forked version of jquery.sparkline from https://github.com/gwatts/jquery.sparkline/",
+    "type": "library",
+    "require": {
+        "components/jquery": "^3.3"
+    },
+    "license": "New BSD",
+    "minimum-stability": "dev"
+}
